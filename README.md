@@ -36,4 +36,4 @@
 - Json Web Token
 - Stripe
 
-###  [Backend Code Link ](https://github.com/programming-hero-web-course1/manufacturer-website-server-side-Tanjinhossain1)
+###  [Backend Code Link ](https://github.com/programming-hero-web-course1/manufacturer-website-client-side-Rahat-bin-abdullah-omi)
